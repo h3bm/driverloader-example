@@ -1,5 +1,5 @@
 /**********************************************************
-*  Educational Use Only | https://github.com/triggerbotten*
+*  Educational Use Only | https://github.com/h3bm*
 **********************************************************/
 
 #include <Windows.h>
